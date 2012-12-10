@@ -23,12 +23,9 @@ set(SOURCE_FILES
         component/position_component.c
         component/sprite_component.c
         component/keyboard_input_component.c
-        render/renderer.c
         resource/resource_manager.c
         util/bitset.c
         util/intrusive_linked_list.c
-        tile_map.c
-        message.c
 
         assets/character/player.bmp
 )
